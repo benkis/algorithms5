@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int N,u,i=0,v,w;
-cout<<"Tapez la valeur de N : ";cin>>N;
+cout<<"Enter the value of N : ";cin>>N;
 u=3;
 v=2;
 if(N==0)w=u;
